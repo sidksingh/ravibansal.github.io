@@ -11,7 +11,7 @@ citation: 'M. S. Islam, S. Mandal and S. K. Singh, "A programmable sustaining am
 
 
 
-[Download paper here](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8052855&isnumber=8052834)
+[Download paper here](sidksingh.github.io/files/MWSCAS_2017.pdf)
 
 Recommended citation: M. S. Islam, S. Mandal and S. K. Singh, "A programmable sustaining amplifier for reconfigurable MEMS-referenced oscillators," 2017 IEEE 60th International Midwest Symposium on Circuits and Systems (MWSCAS), Boston, MA, 2017, pp. 41-44.
 doi: 10.1109/MWSCAS.2017.8052855
