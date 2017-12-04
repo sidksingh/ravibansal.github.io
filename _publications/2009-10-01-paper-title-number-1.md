@@ -11,7 +11,7 @@ citation: 'M. S. Islam, S. Mandal and S. K. Singh, "A programmable sustaining am
 
 We are currently working on a journal publication towards this project which wil be submitted to IEEE Transactions on Circuits and Systems in December 2017. The paper will present extensive results of our chip integrated with polysilicon MEMS devices. 
 
-[Download paper here](sidksingh.github.io/files/MWSCAS_2017.pdf)
+[Download paper here](https://sidksingh.github.io/files/MWSCAS_2017.pdf)
 
 Recommended citation: M. S. Islam, S. Mandal and S. K. Singh, "A programmable sustaining amplifier for reconfigurable MEMS-referenced oscillators," 2017 IEEE 60th International Midwest Symposium on Circuits and Systems (MWSCAS), Boston, MA, 2017, pp. 41-44.
 doi: 10.1109/MWSCAS.2017.8052855
