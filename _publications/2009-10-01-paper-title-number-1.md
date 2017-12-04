@@ -7,6 +7,8 @@ date: 2017-08-06
 venue: '2017 IEEE 60th International Midwest Symposium on Circuits and Systems (MWSCAS), Boston'
 paperurl: 'http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8052855&isnumber=8052834'
 citation: 'M. S. Islam, S. Mandal and S. K. Singh, "A programmable sustaining amplifier for reconfigurable MEMS-referenced oscillators," 2017 IEEE 60th International Midwest Symposium on Circuits and Systems (MWSCAS), Boston, MA, 2017, pp. 41-44.'
+
+We are currently working on a journal publication towards this project which wil be submitted to IEEE Transactions on Circuits and Systems in December 2017. The paper will present extensive results of our chip integrated with polysilicon MEMS devices. 
 ---
 
 We are currently working on a journal publication towards this project which wil be submitted to IEEE Transactions on Circuits and Systems in December 2017. The paper will present extensive results of our chip integrated with polysilicon MEMS devices. 
